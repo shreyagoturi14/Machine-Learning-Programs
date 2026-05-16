@@ -1,13 +1,11 @@
 # Correlation and Pairplot Analysis (EDA)
 
 This project performs **Exploratory Data Analysis (EDA)** on the California Housing dataset using correlation heatmaps and pair plots.
-
 The goal is to understand relationships between features and identify patterns that can help in building better Machine Learning models.
 
 ---
 
 ## Project Overview
-
 In this project:
 - Loaded the California Housing dataset using sklearn
 - Computed correlation between features
@@ -17,7 +15,7 @@ In this project:
 
 ---
 
-## 🚀 Key Concepts
+## Key Concepts
 
 ### 🔹 Correlation Matrix
 - Shows the relationship between numerical features
@@ -41,7 +39,7 @@ In this project:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -70,7 +68,7 @@ In this project:
 
 ---
 
-🔮 Future Improvements
+Future Improvements
 Perform feature selection based on correlation
 Apply regression models on selected features
 Compare model performance
