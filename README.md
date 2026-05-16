@@ -16,7 +16,6 @@ It focuses on understanding data through analysis and visualization.
 - Outlier detection techniques
 
 ## Tools Used
-
 - Python  
 - Pandas  
 - NumPy  
@@ -24,9 +23,7 @@ It focuses on understanding data through analysis and visualization.
 - Seaborn  
 
 ## Goal
-
 To build strong fundamentals in Machine Learning by practicing real datasets step by step.
 
 ## Note
-
 This repository will be updated regularly as I learn new concepts.
