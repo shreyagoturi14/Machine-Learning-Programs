@@ -4,7 +4,7 @@ This project focuses on analyzing the distribution of numerical features and det
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In this project:
 - Loaded the California Housing dataset using sklearn
@@ -15,7 +15,7 @@ In this project:
 
 ---
 
-## 🚀 Key Concepts
+## Key Concepts
 
 ### 🔹 Distribution Analysis
 - Histograms are used to understand the spread of data
@@ -75,7 +75,7 @@ Upper Bound = Q3 + 1.5 × IQR
 
 ---
 
-🔮 Future Improvements
+ Future Improvements
 Remove or treat outliers and compare results
 Apply Z-score method for comparison
 Integrate with feature scaling and modeling
