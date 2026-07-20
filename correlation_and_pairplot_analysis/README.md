@@ -3,7 +3,6 @@
 This project performs **Exploratory Data Analysis (EDA)** on the California Housing dataset using correlation heatmaps and pair plots.
 The goal is to understand relationships between features and identify patterns that can help in building better Machine Learning models.
 
----
 
 ## Project Overview
 In this project:
@@ -13,31 +12,27 @@ In this project:
   - Heatmap
   - Pairplot
 
----
 
 ## Key Concepts
 
-### 🔹 Correlation Matrix
+### Correlation Matrix
 - Shows the relationship between numerical features
 - Values range from -1 to +1
   - **+1** → Strong positive correlation
   - **-1** → Strong negative correlation
   - **0** → No correlation
 
----
 
-### 🔹 Heatmap Visualization
+###  Heatmap Visualization
 - Used to visualize correlation matrix
 - Helps quickly identify highly related features
 
----
 
-### 🔹 Pairplot
+###  Pairplot
 - Displays pairwise relationships between features
 - Includes scatter plots and distributions
 - Useful for detecting patterns and trends
 
----
 
 ## Technologies Used
 
@@ -48,7 +43,6 @@ In this project:
 - Seaborn
 - Scikit-learn
 
----
 
 ## 📂 Project Workflow
 
@@ -58,15 +52,13 @@ In this project:
 4. Visualized using heatmap
 5. Generated pairplot for feature relationships
 
----
 
-## 📊 Key Observations
+##  Key Observations
 
 - Some features show strong correlation with the target variable
 - Pairplots help visualize linear and non-linear relationships
 - Heatmaps make it easy to identify important features
 
----
 
 Future Improvements
 Perform feature selection based on correlation
