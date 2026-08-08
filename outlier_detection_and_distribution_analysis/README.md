@@ -2,8 +2,6 @@
 
 This project focuses on analyzing the distribution of numerical features and detecting outliers in the California Housing dataset using visualization techniques and statistical methods.
 
----
-
 ## Project Overview
 
 In this project:
@@ -13,23 +11,19 @@ In this project:
 - Used boxplots to detect outliers
 - Applied the IQR method to quantify outliers
 
----
-
 ## Key Concepts
 
-### 🔹 Distribution Analysis
+###  Distribution Analysis
 - Histograms are used to understand the spread of data
 - KDE (Kernel Density Estimation) helps visualize the probability distribution
 
----
 
-### 🔹 Boxplots
+###  Boxplots
 - Visual tool to detect outliers
 - Shows median, quartiles, and extreme values
 
----
 
-### 🔹 Outlier Detection (IQR Method)
+### Outlier Detection (IQR Method)
 
 - Q1 = 25th percentile  
 - Q3 = 75th percentile  
@@ -40,8 +34,6 @@ Outliers are defined as:
 Lower Bound = Q1 - 1.5 × IQR  
 Upper Bound = Q3 + 1.5 × IQR  
 
----
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -50,8 +42,6 @@ Upper Bound = Q3 + 1.5 × IQR
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
----
 
 ## 📂 Project Workflow
 
@@ -64,16 +54,12 @@ Upper Bound = Q3 + 1.5 × IQR
 5. Identified number of outliers per feature
 6. Displayed dataset summary statistics
 
----
-
 ## Key Observations
 
 - Some features show skewed distributions
 - Boxplots clearly highlight extreme values
 - Outliers vary across different features
 - Distribution analysis helps understand data behavior before modeling
-
----
 
  Future Improvements
 Remove or treat outliers and compare results
