@@ -12,7 +12,6 @@ In this project:
   - Heatmap
   - Pairplot
 
-
 ## Key Concepts
 
 ### Correlation Matrix
@@ -33,7 +32,6 @@ In this project:
 - Includes scatter plots and distributions
 - Useful for detecting patterns and trends
 
-
 ## Technologies Used
 
 - Python
@@ -42,7 +40,6 @@ In this project:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
 
 ## 📂 Project Workflow
 
@@ -65,6 +62,3 @@ Perform feature selection based on correlation
 Apply regression models on selected features
 Compare model performance
 Extend analysis to real-world datasets
-
-👩‍💻 Author
-Shreya G
